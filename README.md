@@ -18,3 +18,5 @@ applicable schools and the hyperlinks as strings to their website.
 Goes to the cooresponding website then searchs for all the hyperlinks
 within the website. Visits them and collects text data and checks 
 if certain keywords are mentioned. Then creates a .txt file with all the data
+
+Linear run time of ~28 minutes for 73 university websites.
