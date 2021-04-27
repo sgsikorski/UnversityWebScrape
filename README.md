@@ -7,7 +7,7 @@ May 2020
 University of Rochester Undergraduate 2023
 
 Created for Ph.D dissertation data collection.
-Created and optimized in about 7 hours of work.
+Created and optimized in about 3 hours of work.
 
 Given: .txt file
 Product: .txt file
